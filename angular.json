@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "fairhouse"
+  "defaultProject": "fairhouse",
+  "cli": {
+    "analytics": "fb734061-9bfc-47e6-9566-bb800e70bb82"
+  }
 }
